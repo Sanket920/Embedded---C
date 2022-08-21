@@ -1,0 +1,17 @@
+
+Name: Ram
+Roll no=1 
+Marks=99 
+ 
+Name: ram 
+Roll no=2 
+Marks=88 
+ 
+Name: raj
+Roll no=1 
+Marks=99 
+ 
+Name: sham 
+Roll no=2 
+Marks=77 
+ 
